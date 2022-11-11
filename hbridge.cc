@@ -1,5 +1,5 @@
 // Definitions Arduino pins connected to input H Bridge
-int EN1 = 9
+int EN1 = 9;
 int IN1 = 8;
 int IN2 = 7;
 int IN3 = 5;
